@@ -1,4 +1,4 @@
-测试master修改
+测试 master 修改
 第二次修改
 <<<<<<< HEAD
 在develop做修改
@@ -6,6 +6,13 @@
 第二次修改develop
 =======
 
-第三次修改master
+第三次修改 master
 第四次修改
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+修改 develop
+
+改
 >>>>>>> master
